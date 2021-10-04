@@ -2,12 +2,14 @@
 
 A place to model and reference design patterns
 
-## - [SOLID]()
+## - [Fundamental Object Patterns]()
+
+## - [SOLID Design Principles]()
 
 An overview of the SOLID design principles introduced by Robert C. Martin (Uncle Bob)
 
-## Creational
+## Creational Design Patterns
 
-## Structural
+## Structural Design Patterns
 
-## Behavioral
+## Behavioral Design Patterns

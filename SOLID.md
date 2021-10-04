@@ -14,6 +14,8 @@ This ensures that existing code that is dependent on the existing class is not e
 
 ## Liskov Substitution Principle
 
+A method that can take a base type should also be able to take a derived type.
+
 ## Interface Segregation Principle
 
 ## Dependency Inversion Principle
