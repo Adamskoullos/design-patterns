@@ -1,4 +1,6 @@
-# Overview of each of the SOLID design principles
+# SOLID Design Principles
+
+An overview of the SOLID design principles introduced by Robert C. Martin (Uncle Bob)
 
 ## Single Responsibility Principle
 
@@ -19,3 +21,5 @@ A method that can take a base type should also be able to take a derived type.
 ## Interface Segregation Principle
 
 ## Dependency Inversion Principle
+
+High level modules should not directly depend on low level modules as this creates a tightly coupled system

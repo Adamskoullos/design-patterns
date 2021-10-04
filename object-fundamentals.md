@@ -146,7 +146,7 @@ class Product {
 }
 ```
 
-**New Class from Base Class**:
+**New Derived Class from Base Class**:
 
 ```js
 class Drink extends Product {
