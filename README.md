@@ -12,7 +12,7 @@ A place to model and reference design patterns
 
 #### [Factory Method & Abstract Factory](https://github.com/Adamskoullos/design-patterns/blob/main/creational/factory.md)
 
-#### [Prototype]()
+#### [Prototype]() Easier to just build a class and add to its prototype directly
 
 #### [Singleton]()
 
