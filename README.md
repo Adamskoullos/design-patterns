@@ -2,17 +2,15 @@
 
 A place to model and reference design patterns
 
-#### [Fundamental Object Patterns]()
+#### [Fundamental Object Patterns](https://github.com/Adamskoullos/design-patterns/blob/main/object-fundamentals.md)
 
-#### [SOLID Design Principles]()
+#### [SOLID Design Principles](https://github.com/Adamskoullos/design-patterns/blob/main/SOLID.md)
 
 ## Creational Design Patterns
 
-#### [Builder]()
+#### [Builder](https://github.com/Adamskoullos/design-patterns/blob/main/creational/builder.md)
 
-#### [Abstract Factory]()
-
-#### [Factory Method]()
+#### [Factory Method & Abstract Factory](https://github.com/Adamskoullos/design-patterns/blob/main/creational/factory.md)
 
 #### [Prototype]()
 
