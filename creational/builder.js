@@ -21,6 +21,7 @@ class Address {
 // Traditional Builder Pattern >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 class UserBuilder {
     user;
+    email;
     constructor(name, email){
         this.user = new User(name, email);
     }
