@@ -6,7 +6,8 @@ For both of the below examples we will use the same `creator class` => **Car**:
 
 ```js
 class Car {
-    constructor(doors, engine, color) {
+    constructor(model, doors, engine, color) {
+        this.model = model;
         this.doors = doors;
         this.engine = engine;
         this.color = color;
@@ -20,15 +21,15 @@ To use the above creator class we will first look at classes with a single `Fact
 
 ```js
 class SportsCarFactory {
-    createCar(type) {
-        if (type === "Supra") {
-            return new Car(2, "3L", "white");
+    createCar(model) {
+        if (model === "Supra") {
+            return new Car(model, 2, "3L", "white");
         }
-        if (type === "GT86") {
-            return new Car(2, "2L", "black");
+        if (model === "GT86") {
+            return new Car(model, 2, "2L", "black");
         }
-        if (type === "RX7") {
-            return new Car(2, "1.2L", "red");
+        if (model === "RX7") {
+            return new Car(model, 2, "1.2L", "red");
         }
     }
 }
